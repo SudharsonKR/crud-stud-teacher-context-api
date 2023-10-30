@@ -33,7 +33,7 @@ export const data=[
         },
             {
                 id: "1105",
-                name: "Ammu",
+                name: "Ammu.G",
                 batch: "B43WE",
                 education: "BCA",
                 gender: "Female",
